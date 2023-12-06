@@ -31,7 +31,7 @@ Hello, world! I'm Atabak 🌍, a multidisciplinary maverick with a blend of engi
 
 ### 📢 Let's Connect
 
-- **LinkedIn**: [Atabak Alishiri](https://www.linkedin.com/in/atabak-alishiri/) (Elusive as a ninja, currently inaccessible)
+- **LinkedIn**: [Atabak Alishiri](https://www.linkedin.com/in/atabak-alishiri/)
 - **Twitter**: [Atabak's Twitter](https://twitter.com/atabakalishiri)
 - **Instagram**: [Atabak's Instagram](https://www.instagram.com/atabakalishiri)
 
