@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ About Me
 
-Hello, world! I'm Atabak, a multidisciplinary maverick with a blend of engineering acumen 🛠️, business savvy 📊, and a voracious appetite for technology and innovation. Originally hailing from the poetic landscapes of Iran, I'm now soaking up the energy of Vancouver, Canada. A linguistic aficionado, I converse in English, Farsi, and Azeri, with Turkish in my linguistic arsenal.
+Hello, world! I'm Atabak, a multidisciplinary maverick with a blend of engineering acumen, business savvy, and a voracious appetite for technology and innovation. Originally hailing from the poetic landscapes of Iran, I'm now soaking up the energy of Vancouver, Canada. A linguistic aficionado, I converse in English, Farsi, and Azeri, with Turkish in my linguistic arsenal.
 
 ### 🎓 My Educational Odyssey
 
